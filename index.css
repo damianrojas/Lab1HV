@@ -1,0 +1,136 @@
+
+h3{ 
+    margin-left: 10px;
+    font-size: 30px;
+  margin-bottom: 5px;
+  
+}
+.contenedor{
+    
+    border-style:groove;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: row;
+    
+}
+.informacion{
+    width: 32%;
+    background-color: rgb(231, 231, 231);
+    
+}
+.contenido{
+  
+    float: left;
+    width: 550px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+   
+}
+
+.marco-foto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2% 0 0 0;
+}
+.foto{
+    align-items: center;
+    border-radius: 50%;
+    width: 85%;
+    border: solid 1px black;
+    max-width: 50%;
+}
+.informacion-general{
+   margin-top: 10px;
+   font-family: 'Be Vietnam Pro', sans-serif;
+    
+}
+.habilidad{
+    margin-left: 10px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    
+}
+.info-contacto{ 
+    font-size: 13px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    height: 13%;
+}
+div .containerinfo {
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+}
+.containerinfo i{
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 0 30%;
+    font-size: 25px;
+    
+    
+    
+}
+.texto{
+    margin: 2% 0 0 5%;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.objetivo{
+  
+    background-color: rgb(185, 185, 185);
+    color: rgb(255, 255, 255);
+    margin: 5% 0 0 5%;
+    border-radius: 10px; 
+    width:auto;
+    padding-left: 15px;
+    font-size: 25px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.contenido p{
+    margin: 1% 0 0 5%;
+}
+.formacion{
+   
+    background-color: rgb(14, 84, 132);
+    color: rgb(255, 255, 255);
+    margin: 1% 0 0 5%;
+    border-radius: 10px; 
+    padding-left: 15px;
+    width: auto;
+    font-size: 25px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+.formacion-academica{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 0 30px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+
+
+
+
+
+#nombre{
+    font-size: 40px;
+    color: rgb(14, 84, 132);
+    font-family: 'Be Vietnam Pro', sans-serif;
+    margin-left: 5px;
+    margin-top: 10px;
+    padding: 5px;
+}
+#carrera{
+    
+    font-size: 20px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    margin-left: 10px;
+    padding-bottom: 5px;
+
+    
+}
+#parrafo-sobremi{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    margin-left: 10px;
+    margin-top: 5px;
+}
